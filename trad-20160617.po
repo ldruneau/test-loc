@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: Huge\n"
 "Report-Msgid-Bugs-To: huge@hubee.tv\n"
 "POT-Creation-Date: 2016-06-15 12:39+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
+"PO-Revision-Date: 2016-06-28 12:25+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: trad_ (generated) "
+"<http://example.com/projects/huge/hod/trad_/>\n"
+"Language: trad-20160617\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 
 #: resources/views/auth/login.blade.php:6
 msgid "header_login"
@@ -30,7 +31,7 @@ msgstr "Forgot my password"
 #: resources/views/elements/left.blade.php:100
 #: resources/views/elements/left.blade.php:119
 msgid "version"
-msgstr ""
+msgstr "version"
 
 #: resources/views/batchpublications/create.blade.php:11
 #: resources/views/batchpublications/edit.blade.php:11
@@ -145,7 +146,7 @@ msgstr "Select all"
 
 #: resources/views/batchpublications/edit.blade.php:37
 msgid "deselect_all"
-msgstr ""
+msgstr "unselect all"
 
 #: resources/views/batchpublications/edit.blade.php:45
 #: resources/views/batchpublications/show_content.blade.php:37
