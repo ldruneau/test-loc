@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Huge\n"
 "Report-Msgid-Bugs-To: huge@hubee.tv\n"
 "POT-Creation-Date: 2016-06-15 12:39+0200\n"
-"PO-Revision-Date: 2016-06-28 12:25+0000\n"
+"PO-Revision-Date: 2016-06-28 12:28+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: trad_ (generated) "
 "<http://example.com/projects/huge/hod/trad_/>\n"
@@ -175,7 +175,7 @@ msgstr "Back to list of contents"
 
 #: resources/views/batchpublications/show.blade.php:26
 msgid "right_holder"
-msgstr ""
+msgstr "Right Holder"
 
 #: resources/views/batchpublications/show.blade.php:30
 msgid "business model"
@@ -197,7 +197,7 @@ msgstr "contents refused"
 
 #: resources/views/batchpublications/show_content.blade.php:23
 msgid "selected contents"
-msgstr ""
+msgstr "Selected Contents"
 
 #: resources/views/brands/create.blade.php:8
 #: resources/views/brands/create.blade.php:9
